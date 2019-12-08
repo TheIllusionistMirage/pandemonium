@@ -1,0 +1,5 @@
+{
+    "port": 9000,
+    "apiKey": "YOUR_API_KEY",
+    "cache": "./audio"
+}
